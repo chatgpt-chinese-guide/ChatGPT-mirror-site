@@ -22,7 +22,7 @@ ChatGPT是OpenAI开发的一款大型语言模型，它基于GPT（生成式预�
 | 网站 | 支持的AI模型 | 功能 |
 | --- | --- | --- |
 | [xsimplechat.com](https://xsimplechat.com) | GPT-4o, GPT o1, **DeepSeek满血版**, Claude 3.7 Sonnet, Claude 4 Sonnet, Gemini 2.5 Pro, Gemini 2.0 Flash, Grok 3 | AI绘画, AI PPT, 联网查询 |
-| [chat.lanjing.pro](https://chat.lanjing.pro/) | GPT-4o, GPT-o3, GPT o1, **Claude全系列**, **Gemini 全系列**, Grok-3, **DeepSeek满血版** | AI绘画 |
+| [chat.lanjing.pro](https://chat.lanjingai.org/) | GPT-4o, GPT-o3, GPT o1, **Claude全系列**, **Gemini 全系列**, Grok-3, **DeepSeek满血版** | AI绘画 |
 | [guide1.lanjing.ai](https://guide1.lanjing.ai) | **GPT全系列模型** | - |
 
 这些网站都经过了严格的测试，确保其稳定性和安全性。用户可以根据自己的需求选择合适的网站。
